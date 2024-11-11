@@ -1,8 +1,8 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
-Nana, Shell Navigation, submitted
-Gusenga, Shell Navigation, submitted
-Kaneza, Shell Navigation, submitted
-Thierry, Shell Navigation, not submitted
-Mbonimpaye,Shell Navigation, not submitted
+Zya, Shell Navigation, submitted
+Alain, Shell Navigation, submitted
+Iteka, Shell Navigation, submitted
+Teddy, Shell Navigation, not submitted
+Keran,Shell Navigation, not submitted
